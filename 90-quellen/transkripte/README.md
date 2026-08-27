@@ -9,15 +9,18 @@ Rohmaterial. **Nichts hier ist geprüftes Wissen.**
 2. Jede Aussage, die von hier in eine Wissensdatei wandert, bekommt dort eine
    Evidenzstufe und wird gegen Googles Richtlinien, deutsche Rechtslage und den
    DACH-Markt geprüft.
-3. Die Einordnung der Quelle steht in `90-quellen/91-quellenlog.md`, nicht hier.
+3. Die Einordnung der Quelle steht in `90-quellen/91-quellenlog.md`, die vollständige
+   Auswertung in `90-quellen/92-igler-auswertung.md` — nicht hier.
 4. Das Repo bleibt privat. Fremde Transkripte sind interne Arbeitsgrundlage,
    kein Material zur Weitergabe oder Veröffentlichung.
 
 ## Bestand
 
-| Datei | Inhalt | Stand |
-|---|---|---|
-| `noah-igler-youtube.md` | 61 Transkripte des YouTube-Kanals von Noah Igler / Sustain Media, Local SEO für US-Handwerksbetriebe. Englisch, automatische Untertitel. | 08/2026 |
+| Datei | Inhalt | Umfang | Stand |
+|---|---|---|---|
+| `Noah-Igler-YouTube-Transkripte.md` | 61 Transkripte des YouTube-Kanals von Noah Igler / Sustain Media, Local SEO für US-Handwerksbetriebe. Englisch, automatische Untertitel. | ca. 224.000 Wörter | 08/2026 |
+
+Ausgewertet am 2026-08-27, vollständig. Ergebnis: `90-quellen/92-igler-auswertung.md`
 
 ## Warum automatische Untertitel Vorsicht verlangen
 
