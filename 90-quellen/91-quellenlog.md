@@ -12,7 +12,8 @@ status: geprueft
 # Quellenlog
 
 Alle ausgewerteten Quellen mit Einordnung. Rohquellen (Transkripte, Screenshots,
-PDFs) gehören hierher bzw. in die Ablage — **nicht** in die Wissensdateien.
+PDFs) gehören nach `90-quellen/transkripte/` bzw. in die Ablage — **nicht** in die
+Wissensdateien.
 
 ## Primärquellen (Google)
 
@@ -35,11 +36,30 @@ PDFs) gehören hierher bzw. in die Ablage — **nicht** in die Wissensdateien.
 | Kategorieliste DE | netzpunkte.de/google-my-business-kategorien-liste-komplett/ | Stand 01/2026, vollständig, alphabetisch |
 | Kategorieliste DE | k-twelve.de/blog/google-my-business-kategorien-liste-2026/ | Stand 03/2026, ca. 3.800 Kategorien |
 
-## Verworfene bzw. eingeschränkt verwertbare Quellen
+## Rohmaterial
 
-| Quelle | Einordnung |
+| Quelle | Ablage | Einordnung |
+|---|---|---|
+| Noah Igler / Sustain Media, YouTube-Kanal, 61 Transkripte (2025–08/2026) | `90-quellen/transkripte/noah-igler-youtube.md` | Agenturmarketing für den US-Markt, Zielgruppe Home-Service-Betriebe ab 2 Mio. USD Umsatz. Automatische Untertitel, Zahlen und Eigennamen fehleranfällig. Kein Beleg, sondern Hypothesenquelle. |
+
+### Bisher übernommen
+
+- Methode zur Wahl der Primärkategorie über Wettbewerbsanalyse → `20-wissen/21-kategorien.md`
+- Bewertungs-Benchmark über den 30-Tage-Zuwachs der Top-3 → `20-wissen/26-bewertungen.md`
+- Verlinkung des Website-Buttons auf die passende Standortseite statt auf die Startseite
+
+### Bisher verworfen
+
+| Taktik | Grund |
 |---|---|
-| Noah Igler / Sustain Media, YouTube + Newsletter (2026) | Agenturmarketing für den US-Markt. Methode zur Kategoriewahl und der Bewertungs-Benchmark übernommen. Verworfen: Keywords im Firmennamen per DBA, Prämien pro Bewertung, Bewertung noch vor Ort einholen, Reddit-Posts aus Kundenperspektive, gemietetes Kleinstbüro für den Pin. Begründungen in den jeweiligen Wissensdateien. |
+| Keywords im Firmennamen per DBA | In DE kein DBA-Äquivalent; Keywords im Namen sind Richtlinienverstoß, wenn nicht echter Firmenname |
+| Prämie pro Bewertung für Monteure und Büro | Google untersagt Bewertungsanreize ausdrücklich auch für Mitarbeiter (Stand 04/2026) |
+| Bewertung noch vor Ort einholen, Inhalt vorgeben | Beides ausdrücklich untersagt |
+| Reddit-Beiträge aus Kundenperspektive | Anhang zu § 3 Abs. 3 UWG Nr. 23c, per se verboten |
+| Gemietetes Kleinstbüro nur für den Kartenpin | Persönlicher Kundenkontakt während der angegebenen Geschäftszeiten ist Voraussetzung |
+| Älteres Eröffnungsdatum eintragen | Anekdotisch, unbelegt, und falsche Angabe im Profil |
+
+Begründungen jeweils in den zugehörigen Wissensdateien.
 
 ## Rechtsquellen DACH
 
