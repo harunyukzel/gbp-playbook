@@ -12,7 +12,7 @@ status: entwurf
 # Auswertung Igler-Transkripte
 
 Vollständiger Durchgang durch alle 61 Videos (rund 224.000 Wörter, 2025 bis 08/2026).
-Rohmaterial in `transkripte/noah-igler-youtube.md`.
+Rohmaterial in `transkripte/Noah-Igler-YouTube-Transkripte.md`.
 
 ## Methodik
 
@@ -77,8 +77,8 @@ in der Kreisstadt deckt den Kreis nicht ab. Prüfen, ob sich das im Geo-Grid bes
 
 ### Wenige gute statt viele dünne Standortseiten
 
-Video 8: 8 bis 10 gut gebaute Standortseiten schlagen 100 dünne. Video 8 nennt einen
-Betrieb mit 12 sauberen Seiten als Vorbild statt „200 spammy service area pages".
+Video 8: 8 bis 10 gut gebaute Standortseiten schlagen 100 dünne. Als Vorbild nennt er
+einen Betrieb mit 12 sauberen Seiten statt „200 spammy service area pages".
 
 → **Direkt relevant für die Engine.** Wenn dort 37 Stadtseiten je Kunde entstehen,
 ist die Frage nicht die Anzahl, sondern ob jede Seite eigenständigen Inhalt trägt.
@@ -213,7 +213,7 @@ Signal überhaupt in dieser Frage, und es zeigt in die unbequeme Richtung.
 | Deutsche Verzeichnisliste erarbeiten | `20-wissen/30-citations-und-verzeichnisse.md` | hoch |
 | Radiusgrenze pro Profil im Geo-Grid prüfen | `40-messung/43-geo-grid-tracking.md` | hoch |
 | UTM-Parameter am Profil-Link | `40-messung/41-messkonzept.md` | mittel |
-| Mythen-Friedhof anlegen (Geotagging, Eröffnungsdatum, Beiträge?) | `90-quellen/92-widerlegtes.md` | mittel |
+| Mythen-Friedhof anlegen (Geotagging, Eröffnungsdatum, Beiträge?) | `90-quellen/93-widerlegtes.md` | mittel |
 | Standortseiten: Tiefe statt Anzahl prüfen | `20-wissen/29-website-und-standortseiten.md` | mittel |
 | Profilschutz als SOP | `30-sop/36-sop-profil-schutz.md` | mittel |
 
@@ -221,7 +221,7 @@ Signal überhaupt in dieser Frage, und es zeigt in die unbequeme Richtung.
 
 ## Quellen
 
-- Rohmaterial: `90-quellen/transkripte/noah-igler-youtube.md`, 61 Videos, 2025–08/2026
+- Rohmaterial: `90-quellen/transkripte/Noah-Igler-YouTube-Transkripte.md`, 61 Videos, 2025–08/2026
 - Gegengeprüft gegen: Google-Unternehmensprofil-Richtlinien, Richtlinien für
   Maps-Nutzerinhalte, Whitespark Local Search Ranking Factors 2026, UWG
 - Einordnung der Quelle: `90-quellen/91-quellenlog.md`
