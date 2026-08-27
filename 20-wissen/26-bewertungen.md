@@ -20,9 +20,10 @@ verstößt, ist das hier markiert — begründet wird es dort.
 
 1. Nicht die Gesamtzahl entscheidet, sondern **Frequenz und Aktualität**. Ein Betrieb mit 250 Bewertungen und 15 neuen im Monat schlägt einen mit 800 und drei neuen.
 2. Das Ziel ergibt sich aus dem Markt, nicht aus dem Bauchgefühl. Erst den Zuwachs der Top-3 im Zielort messen, dann das eigene Ziel setzen.
-3. Der einzige zuverlässige Kanal ist die **persönliche Bitte direkt nach der Leistung**. Alles Digitale ist Nachfassen, kein Ersatz.
-4. Bewertungen entstehen nicht durch ein Tool, sondern durch einen eingeübten Ablauf beim Monteur. Das ist eine Schulungsaufgabe, keine Marketingaufgabe.
-5. Antworten auf alle Bewertungen, zügig. Kostet zehn Minuten am Tag.
+3. **Der Weg zum Ziel führt über eine Rampe, nicht über einen Sprung.** Wer von zwei auf zwanzig Bewertungen im Monat springt, riskiert, dass Google einen Großteil wieder herausfiltert.
+4. Der einzige zuverlässige Kanal ist die **persönliche Bitte direkt nach der Leistung**. Alles Digitale ist Nachfassen, kein Ersatz.
+5. Bewertungen entstehen nicht durch ein Tool, sondern durch einen eingeübten Ablauf beim Monteur. Das ist eine Schulungsaufgabe, keine Marketingaufgabe.
+6. Antworten auf alle Bewertungen, zügig. Kostet zehn Minuten am Tag.
 
 ---
 
@@ -55,7 +56,41 @@ In der Rohrreinigung liegt dieser Zuwachs bei den Top-Profilen erfahrungsgemäß
 
 ---
 
-## Schritt 2: Der Ablauf vor Ort
+## Schritt 2: Den Hochlauf planen
+
+Das Marktziel ist das Ziel, nicht der Startwert. Wer von zwei Bewertungen im Monat
+direkt auf zwanzig springt, erzeugt ein Muster, das Googles Spamerkennung als
+gekauft oder organisiert liest — und dann verschwindet ein Teil der Bewertungen
+wieder, obwohl jede einzelne echt ist.
+
+`evidenz: branchenbehauptung` — Beobachtung aus der US-Agenturpraxis (Igler, Video 32).
+Nicht von Google bestätigt, aber konsistent mit dem, was Google zu manipulierten
+Bewertungen schreibt. Die genannte Filterquote von 30 bis 80 Prozent ist eine
+Schätzung ohne Datengrundlage. **Für uns ein guter Kandidat für einen eigenen Test.**
+
+**Arbeitsregel bis zum Gegenbeweis:**
+
+| Ausgangslage | Sicherer Zielwert im ersten Schritt |
+|---|---|
+| Unter 50 Bewertungen, bisher unregelmäßig | 2 bis 4 pro Monat, drei Monate lang halten |
+| 50+ Bewertungen, im Schnitt 5–10 pro Monat | 10 bis 15 pro Monat |
+| Stabil über 15 pro Monat | Weiter steigern, Muster bleibt unauffällig |
+
+Faustregel: **Verdopplung statt Vervielfachung.** Lieber drei Monate auf einem
+niedrigeren Wert stabil bleiben und dann erhöhen, als einmal einen Ausschlag
+produzieren.
+
+**Was das für die Praxis heißt:** Keine Sammelaktion zum Start, bei der alle
+Bestandskunden der letzten zwei Jahre gleichzeitig angeschrieben werden. Genau das
+ist der klassische Fehler beim Onboarding eines neuen Kunden. Stattdessen die Liste
+über mehrere Monate portionieren.
+
+Wenn Bewertungen trotzdem verschwinden: Sie lassen sich bei Google melden und
+zur Wiederherstellung beantragen, wenn sie echt waren.
+
+---
+
+## Schritt 3: Der Ablauf vor Ort
 
 Der Monteur ist der einzige, der im richtigen Moment am richtigen Ort ist. Alles andere ist Reparaturbetrieb.
 
@@ -87,7 +122,7 @@ Fettabscheider, Ölabscheider, Hebeanlagen: wiederkehrende B2B-Termine mit feste
 
 ---
 
-## Schritt 3: Nachfassen
+## Schritt 4: Nachfassen
 
 Wer vor Ort keine Bewertung bekommen hat, landet in einer Liste. Zwei Stufen:
 
@@ -99,7 +134,7 @@ Wer vor Ort keine Bewertung bekommen hat, landet in einer Liste. Zwei Stufen:
 
 ---
 
-## Schritt 4: Das Team
+## Schritt 5: Das Team
 
 Der häufigste Grund für ausbleibende Bewertungen ist nicht Unwille, sondern dass niemand es dem Monteur beigebracht hat.
 
@@ -110,12 +145,12 @@ Der häufigste Grund für ausbleibende Bewertungen ist nicht Unwille, sondern da
 
 ---
 
-## Schritt 5: Antworten
+## Schritt 6: Antworten
 
 `evidenz: studie` — Reaktionen auf Bewertungen zählen in der Whitespark-Erhebung 2026 zu den Engagement-Signalen, deren Gewicht zunimmt.
 
 - Auf **jede** Bewertung antworten, auch auf die reinen Sterne ohne Text.
-- Innerhalb von 48 Stunden.
+- Innerhalb von 24 bis 48 Stunden. Die Agenturpraxis nennt durchgehend 24 Stunden als Zielwert; belegt ist nur, dass Reaktion überhaupt zählt.
 - Keine Textbausteine wortgleich wiederholen — Google sieht das, Leser auch.
 - Die Leistung in der Antwort benennen: „Freut uns, dass die Kanalreinigung in Dieringhausen so schnell geklappt hat." Das ist die Stelle, an der Ortsbezug und Leistung legitim ins Profil kommen — nicht in der Bewertung des Kunden.
 
@@ -129,7 +164,8 @@ In der Rohrreinigung hängt an vielen Ein-Sterne-Bewertungen der Vorwurf überh�
 
 | Kennzahl | Zielrichtung | Woher |
 |---|---|---|
-| Neue Bewertungen pro Monat | 2–3× Median der Top-3 | Profil, manuell zählen |
+| Neue Bewertungen pro Monat | 2–3× Median der Top-3, über Rampe erreicht | Profil, manuell zählen |
+| Verschwundene Bewertungen | 0; Ausschläge deuten auf zu schnellen Hochlauf | Monatlicher Abgleich Ist/Erwartung |
 | Quote Aufträge → Bewertungen | steigend, Startwert erheben | CRM gegen Profil |
 | Anteil Bewertungen mit Freitext | steigend | Profil |
 | Antwortquote | 100 % | Profil |
@@ -142,7 +178,8 @@ Der Sternedurchschnitt ist bewusst kein Steigerungsziel. Ein Profil mit 4,7 und 
 
 ## Häufige Fehler
 
-- **Einmalige Sammelaktion.** 60 Bewertungen in zwei Wochen, danach nichts. Fällt auf und trägt nicht.
+- **Einmalige Sammelaktion.** 60 Bewertungen in zwei Wochen, danach nichts. Fällt auf, kostet einen Teil der Bewertungen und trägt nicht.
+- **Beim Onboarding die ganze Bestandskundenliste anschreiben.** Derselbe Fehler, nur mit besserer Absicht. Portionieren.
 - **Nur der Chef fragt.** Skaliert nicht. Der Ablauf muss beim Monteur liegen.
 - **Kein Nachfassen.** Der größte ungenutzte Hebel, weil die Liste niemandem gehört.
 - **Antworten nur auf negative Bewertungen.** Sieht defensiv aus.
@@ -165,6 +202,7 @@ Der Sternedurchschnitt ist bewusst kein Steigerungsziel. Ein Profil mit 4,7 und 
 | Frage | Wie klären | Priorität |
 |---|---|---|
 | Wie hoch ist der reale 30-Tage-Zuwachs der Top-3 im deutschen Kanalservice? | An 5 Standorten erheben, Median bilden | hoch |
+| Stimmt die Hochlaufgrenze, und wo liegt sie wirklich? | Bei 2 Neukunden bewusst unterschiedlich schnell hochfahren, Bestand nach 30/60/90 Tagen abgleichen | hoch |
 | Welche Nachfassstufe bringt wie viel? | Bei 10 Profilen Stufen einzeln zuschalten, Zuwachs vergleichen | hoch |
 | Wirkt die Antwortzeit messbar auf die Sichtbarkeit? | Kohortentest, 2×20 Profile, 12 Wochen | mittel |
 | Bewerten Mieter oder Verwaltungen häufiger? | Bei 3 Kunden Herkunft der Bewerter auswerten | niedrig |
@@ -176,4 +214,4 @@ Der Sternedurchschnitt ist bewusst kein Steigerungsziel. Ein Profil mit 4,7 und 
 - Whitespark, Local Search Ranking Factors 2026 — whitespark.ca/local-search-ranking-factors/
 - Whitespark, Review Recency als unterschätzter Faktor — whitespark.ca/blog/the-most-underrated-local-ranking-factor-in-2025/
 - Google Unternehmensprofil-Hilfe, Rezensionen anfordern — support.google.com/business
-- Noah Igler / Sustain Media, YouTube-Transkript (2026) — Benchmark-Methode übernommen; Prämienmodell, Bewertung vor Ort und Inhaltsvorgaben verworfen
+- Auswertung Igler-Transkripte — `90-quellen/92-igler-auswertung.md`, Abschnitt 1
